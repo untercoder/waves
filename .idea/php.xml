@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/google/protobuf" />
+      <path value="$PROJECT_DIR$/vendor/deemru/waveskit" />
+      <path value="$PROJECT_DIR$/vendor/deemru/pairs" />
+      <path value="$PROJECT_DIR$/vendor/deemru/curve25519" />
+      <path value="$PROJECT_DIR$/vendor/deemru/cryptash" />
+      <path value="$PROJECT_DIR$/vendor/deemru/blake2b" />
+      <path value="$PROJECT_DIR$/vendor/deemru/abcode" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7" />
+</project>

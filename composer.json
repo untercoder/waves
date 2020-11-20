@@ -1,0 +1,21 @@
+{
+  "name": "vendor_name/console_waves",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Lexamok",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "deemru/waveskit": "^1.0",
+    "ext-json": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "deemru\\": ""
+    }
+  }
+}
